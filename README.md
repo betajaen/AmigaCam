@@ -6,11 +6,15 @@ This tool can about due to the need of using upscaling shaders within the OBS so
 
 ## Screenshots
 
-HERE
+!(AmigaCam showing Video from a Commodore Amiga)[Screenshots/screenshot-1.png]
+
+!(AmigaCam used with the ShaderGlass program)[Screenshots/screenshot-2.jpg]
 
 ## Usage
 
 The tool is written in .NET and is for Windows. Due to the Library dependencies, this tool cannot be ported to Linux or MacOS. Simply unzip the AmigaCam archive to any folder, and run the AmigaCam executable. 
+
+!(The Control and Video Windows)[Screenshots/screenshot-3.png]
 
 The program is split into two Windows; Controls and Video
 
