@@ -1,0 +1,12 @@
+﻿IND:NTSC/Early Startup, -80, -101, 640, 400, 800, 600, 1
+IND:NTSC/King's Quest III, -56, -23, 230, 320, 200, 800, 600, 2
+IND:NTSC/No Startup Sequence, -80, -101, 640, 400, 800, 600, 1
+IND:PAL/Early Startup, -110, -47, 640, 512, 800, 600, 1
+IND:PAL/James Pond 2, -70, -23, 288, 208, 800, 600, 2
+IND:PAL/King's Quest VI, -55, -52, 320, 190, 800, 600, 2
+IND:PAL/Lemmings 2, -55, -23, 320, 200, 800, 600, 2
+IND:PAL/No Startup Sequence, -110, -47, 640, 512, 800, 600, 1
+IND:PAL/Workbench Hires, -110, -47, 640, 512, 800, 600, 1
+IND:PAL/Frontier Elite II, -55, -23, 320, 200, 800, 600, 2
+RTG:King's Quest V, 0, 0, 320, 200, 640, 480, 2
+RTG:ShapeShifter 640x480, 0,0,640,480, 640,480, 1
